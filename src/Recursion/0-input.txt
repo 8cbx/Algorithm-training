@@ -1,0 +1,8 @@
+输入有一行为台阶数n  
+输出方案数f(n)  
+  
+input sample:  
+1  
+  
+output sample:  
+1  

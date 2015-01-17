@@ -1,0 +1,8 @@
+输入有一行为圆盘数n  
+输出最少需要移动的步数f(n)  
+  
+input sample:  
+1  
+  
+output sample:  
+1  
