@@ -1,0 +1,21 @@
+# 1003 Tower of DaYe
+
+## Description
+There is a handsome guy who's name is "Nine days five f**ks go upstairs must stretch leg who wants to top up but failed and one shoot purple DaYe". Just for convenience, we call him "DaYe" in short.
+DaYe is a clever guy, who always loves games. When he is playing the traditional Tower of Hanoi, one big question come into his mind. He wants to change the rule of the game, and rename the new game by "Tower of DaYe". Now the new rule is, there are still three rods and n disks, but each disk only can be moved from the first rod to the second one or from the thrid one to the second one. That means no disk can be moved from the first rod to the third rod or from the third rod to the first one. So, here is a question for DaYe, how many ways at least are there to move n disks from the first rod to the last rod?
+
+## Input
+There are multiple test cases. Each line contains a single number n(0 < n < 1e5) means the number of the disks.
+
+## Output
+For each test case, print the number of the ways mod 1e9 + 7 in a single line.
+
+##Sample input
+1
+3
+12
+
+##Sample output
+2
+26
+531440

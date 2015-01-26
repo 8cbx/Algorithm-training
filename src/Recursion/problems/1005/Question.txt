@@ -1,0 +1,19 @@
+# 1005 Nuclear reactor
+
+## Description
+There is a handsome guy who's name is "Nine days five f**ks go upstairs must stretch leg who wants to top up but failed and one shoot purple DaYe". Just for convenience, we call him "DaYe" in short.
+DaYe is a naughty guy, who always loves making trouble. He was in charge of a nuclear reactor, Because of careless, he found out something was unusual: 
+There is a high-energy particle injection reactors! There are two kinds of patticles: high-energy particles and low-energy particles. When high-energy particles crashing nuclear, particle is absorbed, released three high-energy particles and a low-energy particles; And when the low-energy nuclear particles crashing nuclear, the particle is absorbed, released two high-energy particles and a low-energy particles. DaYe defines that the time of the first high-energy particle injection reactors is time 0(microsecond), and each microsecond causes an event occurs. Also, all particles will strike nuclear. To fix this trouble, DaYe wants to know how many particles are there at time n. Can you help him?
+
+
+## Input
+There are multiple test cases. In each test case, there contains some number n (0 <= n <= 33), means the time DaYe asked.
+
+## Output
+For each test case, print the number of the high-energy particles and low-energy particles, separated by a ", "(Attention: there is a "blank" after the ","!).
+
+##Sample input
+
+
+##Sample output
+

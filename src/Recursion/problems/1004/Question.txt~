@@ -1,0 +1,22 @@
+# 1004 Bent Lines in the Plane
+
+## Description
+There is a handsome guy who's name is "Nine days five f**ks go upstairs must stretch leg who wants to top up but failed and one shoot purple DaYe". Just for convenience, we call him "DaYe" in short.
+DaYe is a talented guy, who always loves painting. When he is painting the picture of 573, a vary hard problem came into his mind. As a coder, he had already learned to solve the problem "Lines in the Plane", but how to solve the problem "Bent Lines in the Plane"? 
+As the variation of the lines-in-the-plane problem: Suppose that instead of straight lines we use bent lines, each containing one "zig". What is the maximum number Zn of regions determined by n such bent lines in the plane? Can you tell DaYe the answer?
+
+## Input
+There are multiple test cases. Each line contains a single number n(0 < n < 1e5) means the number of the lines.
+
+## Output
+For each test case, print the maximum number of the regions in a single line.
+
+##Sample input
+1
+2
+3
+
+##Sample output
+2
+7
+16

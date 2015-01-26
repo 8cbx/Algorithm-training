@@ -1,0 +1,21 @@
+# 1002 DaYe's Square
+
+## Description
+There is a handsome guy who's name is "Nine days five f**ks go upstairs must stretch leg who wants to top up but failed and one shoot purple DaYe". Just for convenience, we call him "DaYe" in short.
+DaYe is a rich guy, who always loves money. One day, he gets a big public square which length is n and width is 2. As a rich guy, DaYe has a lot of bricks which length is 2 and width is 1. Each brick is different from the others. Now, DaYe wants to know how many ways are there he can cover the square with the bricks? Can you help him?
+
+## Input
+There are multiple test cases. Each line contains a single number n(0 < n < 1e5) means the length of the square.
+
+## Output
+For each test case, print the number of the ways mod 1e9 + 7 in a single line.
+
+##Sample input
+1
+2
+5
+
+##Sample output
+1
+2
+8

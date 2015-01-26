@@ -1,0 +1,16 @@
+# DaYe's Check Sum
+
+## Description
+You might know that DaYe is always a straight guy. Wait a minute, it seems a little odd... Oh yes, that can't be the matter of my explanation, I had been passed the CET6. One day, DaYe got a message that there was a safe which keeps devil's treasure. He tried his best to get near to it and finally he succeed. By f*ing with the devil, DaYe got the password of the safe, and knew that he need to calculate the "Check Sum" of the password to finish the authentication. The "Check Sum" of the password has two characters and the rule to calculate it has 2 steps. First, for every two character, replace them with the sum of their ascii number and then mod 26 and add 97. Second, redo the first step until there remains only two character. For example, if the password is "password", after the first step, it will be changed into "bwwg"('p' + 'a' is 209 and after mod 26, it will be 1. At last, it will be changed into 98 which is the ascii number of 'b'), and finally it will be changed into "jo", that would be the answer of the "Check Sum" of "password". Now, DaYe has a lot of password to calculate in a hurry, can you help him? 
+
+## Input
+There are multiple test cases. Each line contains a string express the password. Each character in the string are lower case, and the length of the string will be 2^n (0 < n <= 10).
+
+## Output
+For each test case, print the "Check Sum" of the password in a single line.
+
+##Sample input
+password
+
+##Sample output
+jo
