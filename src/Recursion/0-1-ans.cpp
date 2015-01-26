@@ -5,7 +5,7 @@ int main()
     int i;
     int n;
     scanf("%d", &n);
-    f[0]=0;
+    f[0]=1;
     f[1]=1;
     for(i=2;i<=n;i++)
     {
