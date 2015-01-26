@@ -5,11 +5,9 @@ int main()
     int i;
     int n;
     scanf("%d", &n);
-    f[0]=0;
-    for(i=2;i<=n;i++)
-    {
-        f[i]=2*f[i-1]+1;
-    }
+    /*
+    
+    */
     printf("%d\n", f[n]);
     return 0;
 }
